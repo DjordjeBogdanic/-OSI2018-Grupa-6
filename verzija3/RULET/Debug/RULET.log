@@ -1,0 +1,10 @@
+﻿  rulet.cpp
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(258): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(306): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(321): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(335): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(369): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\petar\desktop\platforma za igre1.1\rulet\rulet\rulet.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  RULET.vcxproj -> C:\Users\Petar\Desktop\Platforma za igre1.1\RULET\Debug\RULET.exe
